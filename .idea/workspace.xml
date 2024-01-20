@@ -197,42 +197,42 @@
         <subPane>
           <expand>
             <path>
-              <item name="www.sistema.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.sistema.com" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="www.sistema.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.sistema.com" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="www.sistema.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.sistema.com" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="www.sistema.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.sistema.com" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
               <item name="almacen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="www.sistema.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.sistema.com" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
               <item name="compras" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="www.sistema.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.sistema.com" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
               <item name="compras" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="www.sistema.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.sistema.com" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -250,10 +250,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\www.sistema.com\public\templeates" />
+      <recent name="C:\xampp\htdocs\sistema\public\templeates" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\www.sistema.com\public\images" />
+      <recent name="C:\xampp\htdocs\sistema\public\images" />
     </key>
   </component>
   <component name="RunDashboard">

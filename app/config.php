@@ -20,7 +20,7 @@ try{
     echo "Error al conectar a la base de datos";
 }
 
-$URL = "http://localhost/www.sistema.com";
+$URL = "http://localhost/sistema";
 
 date_default_timezone_set("America/Caracas");
 $fechaHora = date('Y-m-d H:i:s');
